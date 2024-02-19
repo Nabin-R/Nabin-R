@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nabin</h1>
-<p align="center" bold>Full Stack Developer - Computer Programmer**`</p>
+** <p align="center" bold>Full Stack Developer - Computer Programmer</p> **
 
 - 🔭 I’m currently working on **Software Development **
 - 🌱 I’m currently learning **MySQL**
