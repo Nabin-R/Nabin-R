@@ -8,7 +8,7 @@ All projects are done from the ground up! I learn and improve everyday :)
 - 🔭 I’m currently working on **Software Development**
 - 🌱 I’m currently learning **MySQL**
 
-### 🧰 Languages and Tools
+<h3> Languages & Tools:</h3>
 <img align="left" alt="C" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
