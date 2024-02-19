@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm Nabin</h1>
  <p align="center"><strong>Full Stack Developer - Computer Programmer</strong></p> 
 
-I'm an aspiring full stack developer and computer games programmer. I focus mainly on Computer Systems, Engines and Web/App Development.
-All projects are done from the ground up! I learn and improve everyday :)
+`I'm an aspiring full stack developer and computer games programmer. 
+I mainly focus on Computer Systems, Engines and Web/App Development.
+All projects are done from the ground up! I learn and improve everyday :)`
 
 - 🔭 I’m currently working on **Software Development**
 - 🌱 I’m currently learning **MySQL**
