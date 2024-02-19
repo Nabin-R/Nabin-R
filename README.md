@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nabin</h1>
- <p align="center"><strong>Full Stack Developer - Computer Programmer</strong></p> 
+ <p align="center"><strong>`Full Stack Developer - Computer Programmer`</strong></p> 
 
 `I'm an aspiring full stack developer and computer games programmer. 
 I mainly focus on Computer Systems, Engines and Web/App Development.
