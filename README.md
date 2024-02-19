@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nabin</h1>
 
-<h2 align="center">Full Stack Developer </h2>
-<h2 align="center">Computer Programmer</h2>
+<p align="center">Full Stack Developer </p>
+<p align="center">Computer Programmer</p>
 
 - 🔭 I’m currently working on **Software Development **
 - 🌱 I’m currently learning **MySQL**
