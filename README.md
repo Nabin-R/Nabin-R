@@ -31,5 +31,5 @@ All projects are done from the ground up! I learn and improve everyday :)
 <img align="left" alt="NodeJS" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:2px;" src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" />
+<img align="left" alt="Unity" width="30px" style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" />
 <br />
