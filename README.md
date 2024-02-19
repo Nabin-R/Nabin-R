@@ -13,7 +13,7 @@ All projects are done from the ground up! I learn and improve everyday :)
 <img align="left" alt="C++" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html2/html2-original-wordmark.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
