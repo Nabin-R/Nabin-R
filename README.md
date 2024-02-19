@@ -18,7 +18,7 @@ All projects are done from the ground up! I learn and improve everyday :)
 <img align="left" alt="JavaScript" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:2px;" src="https://camo.githubusercontent.com/7218bdbe92e34ee62df722ffe827fafb4a7c237ed0e1b9f6a2bef7a1d3c8326a/68747470733a2f2f7777772e7376677262706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7362727662722d6c6f676f2e737667" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:2px;" src="https://camo.githubusercontent.com/7518bdbe92e34ee62df755ffe857fafb4a7c537ed0e1b9f6a5bef7a1d3c8356a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" />
 
 <img align="left" alt="Tailwind" width="30px" style="padding-right:2px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
@@ -31,5 +31,5 @@ All projects are done from the ground up! I learn and improve everyday :)
 <img align="left" alt="NodeJS" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:2px;" src="https://camo.githubusercontent.com/2f672d7f22e0b706790a667aea70e6ca24c8ddb22fdbed821ab92884e21c7c9f/68747470733a2f2f7777772e766263746f726c6f676f2e7a6f6e622f6c6f676f732f726e69747933642f726e69747933642d69636f6e2e737667" />
+<img align="left" alt="Unity" width="30px" style="padding-right:2px;" src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec" />
 <br />
