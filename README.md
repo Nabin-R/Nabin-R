@@ -1,4 +1,4 @@
-# Hello, I'm Nabin 👋
+<h1 align="center">Hello, I'm Nabin</h1>
 
 <!--
 **Nabin-R/Nabin-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
