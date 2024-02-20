@@ -3,8 +3,7 @@
 
 I'm an aspiring full stack developer and computer games programmer. 
 I mainly focus on Computer Systems, Engines and Web/App Development.
-All projects are done from the ground up! I'm an adept user in C++ Lua Html CSS & Javascript.
-I like front end but have experience in backend coding.
+All projects are done from the ground up! 
       
 - 🔭 I’m currently working on **Software Development**
 - 🌱 I’m currently learning **MySQL**
