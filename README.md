@@ -12,7 +12,7 @@ All projects are done from the ground up!
 
 ### 🌐 Languages & Tools: 
 #
-<img align="left" alt="C" width="30px" style="padding-right:2px;" style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>
