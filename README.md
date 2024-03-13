@@ -12,7 +12,7 @@ All projects are done from the ground up!
 
 ### 🌐 Languages & Tools: 
 #
-<img align="left" alt="C" width="30px" style="padding:1px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:2px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>
@@ -34,6 +34,6 @@ All projects are done from the ground up!
 <img align="left" alt="NodeJS" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding:2px;" src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" />
+<img align="left" alt="Unity" width="30px" style="padding-right:2px;" src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" />
 
 <br />
