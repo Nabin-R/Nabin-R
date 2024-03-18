@@ -6,7 +6,7 @@ I mainly focus on Computer Systems, Engines and Web/App Development.
 All projects are done from the ground up! 
       
 - 🔭 I’m currently working on **Software Development**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & SQL**
 
 --- 
 
