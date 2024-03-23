@@ -14,7 +14,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 * 🧩 Skilled in data debugging, exploratory data analysis (EDA), and statistical modelling. 
 * 🌐 Curious about web scraping and API integration. 
 
-**Check my pinned projects** 
+**Check out my pinned projects!** 
 
 * 🌍  I'm based in London
 * 🧠  I'm learning Python
