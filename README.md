@@ -14,6 +14,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 * 🧩 Skilled in data debugging, exploratory data analysis (EDA), and statistical modelling. 
 * 🌐 Curious about web scraping and API integration. 
 <img align="right" height="180" width="auto" src="https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e" />
+
 **Check out my pinned projects!** 
 
 * 🌍  I'm based in London
