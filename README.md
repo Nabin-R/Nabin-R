@@ -34,8 +34,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 <a href="https://unity.com/" target="_blank" rel="noreferrer; return false;"><img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" width="36" height="36" alt="TUnity" /></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer; return false;"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="36" height="28" alt="Tailwind" /></a>&nbsp;&nbsp;
-
-<a margin-left:"auto">![13c3d6d30072b6817d2a9af47aabdc8c](https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e)</a>
+<img align="right" height="250" src="https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e"  />
 </p>
 
 
