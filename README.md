@@ -11,8 +11,8 @@ Full-Stack Developer | Games Programming | Lifelong Learner
 
 I hold a degree in Computer Programming with a focus on game development and engines.
 * 📊 Proficient in C++, HTML/CSS/JS/Python, LUA and various coding tools (Visual Studio, Unity). 
-* 🧩 Skilled in data debugging, exploratory data analysis (EDA), and statistical modelling. 
-* 🌐 Curious about web scraping and API integration. 
+* 🧩 Skilled in code debugging, web/api creation, and shaders. 
+* 🌐 Curious about databases and AI. 
 <img align="right" height="180" width="auto" src="https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e" />
 
 **Check out my pinned projects!** 
@@ -28,6 +28,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>&nbsp;&nbsp;
 <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" width="36" height="36" alt="LUA" /></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS" /></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
