@@ -24,7 +24,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 ### Skills
 
 <p align="left">
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376358/c-plus-plus.svg" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>&nbsp;&nbsp;
 <a href="https://www.learn-js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
