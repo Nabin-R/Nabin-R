@@ -22,8 +22,6 @@ I hold a degree in Computer Programming with a focus on game development and eng
 
 ### Skills
 
-![13c3d6d30072b6817d2a9af47aabdc8c](https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e)
-
 <p align="left">
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>&nbsp;&nbsp;
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>&nbsp;&nbsp;
@@ -38,4 +36,5 @@ I hold a degree in Computer Programming with a focus on game development and eng
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer; return false;"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="36" height="28" alt="Tailwind" /></a>&nbsp;&nbsp;
 </p>
 
+![13c3d6d30072b6817d2a9af47aabdc8c](https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e)
 
