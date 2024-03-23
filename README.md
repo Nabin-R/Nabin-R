@@ -9,7 +9,7 @@ Full-Stack Developer | Games Programming | Lifelong Learner
 
 **About Me** 🎓 
 
-I hold a degree in Computer Programming with a focus on game development and engines. 
+I hold a degree in Computer Programming with a focus on game development and engines.
 📊 Proficient in C++, HTML/CSS/JS/Python, LUA and various coding tools (Visual Studio, Unity). 
 🧩 Skilled in data debugging, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
