@@ -34,7 +34,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;
 <a href="https://unity.com/" target="_blank" rel="noreferrer; return false;"><img src="https://cdn-icons-png.freepik.com/512/5969/5969346.png" width="36" height="36" alt="TUnity" /></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer; return false;"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="72" height="36" alt="Tailwind" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer; return false;"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="54" height="36" alt="Tailwind" /></a>&nbsp;&nbsp;
 </p>
 
 **Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
