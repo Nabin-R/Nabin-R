@@ -5,13 +5,13 @@ Full-Stack Developer | Games Programming | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
+👋 Hi there! I’m Nabin, an aspiring full-stack developer with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. I mainly focus on Computer Systems, Engines and Web/App Development. All projects are done from the ground up! 
 
 **About Me** 🎓 
 
-I hold a degree in Computer Science with a focus on data analytics. 
+I hold a degree in Computer Programming with a focus on game development and engines. 
 📊 Proficient in C++, HTML/CSS/JS/Python, LUA and various coding tools (Visual Studio, Unity). 
-🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+🧩 Skilled in data debugging, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
 **Projects** 
@@ -22,9 +22,8 @@ I hold a degree in Computer Science with a focus on data analytics.
 4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating and employment
 
 ### Skills
 
