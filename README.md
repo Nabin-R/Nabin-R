@@ -11,7 +11,7 @@ Full-Stack Developer | Games Programming | Lifelong Learner
 
 I hold a degree in Computer Programming with a focus on game development and engines.
 * 📊 Proficient in C++, HTML/CSS/JS/Python, LUA and various coding tools (Visual Studio, Unity). 
-* 🧩 Skilled in code debugging, web/api creation, and shaders. 
+* 🧩 Skilled in debugging, web/api creation, and OOP/DRY/SOLID. 
 * 🌐 Curious about databases and AI. 
 <img align="right" height="180" width="auto" src="https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e" />
 
