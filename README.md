@@ -18,7 +18,7 @@ I hold a degree in Computer Programming with a focus on game development and eng
 **Check out my pinned projects!** 
 
 * 🌍  I'm based in London
-* 🧠  I'm learning Python
+* 🧠  I'm learning AI
 * 🤝  I'm open to collaborating and freelance
 
 ### Skills
