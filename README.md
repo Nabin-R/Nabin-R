@@ -14,7 +14,6 @@ I hold a degree in Computer Programming with a focus on game development and eng
 * 📊 Proficient in C++, HTML/CSS/JS/Python, LUA and various coding tools (Visual Studio, Unity). 
 * 🧩 Skilled in debugging, web/api creation, and OOP/DRY/SOLID. 
 * 🌐 Curious about databases and AI. 
-<img align="right" height="180" width="auto" src="https://github.com/Nabin-R/Nabin-R/assets/72493874/30706220-40bb-46fe-96bc-1c89d6b4dc8e" />
 
 **Check out my pinned projects!** 
 
